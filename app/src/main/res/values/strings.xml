@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AppClinica</string>
+    <string name="txtGrados">23°</string>
+    <string name="txtCiudad">Ciudad</string>
+    <string name="txtEstado">Nublado</string>
+
+    <string name="txtBienvenida">
+        Bienvenido a la app de Clima
+    </string>
+    <string name="texto_boton_ciudad1">
+        Clima de la ciudad de Mexico
+    </string>
+    <string name="texto_boton_ciudad2">
+        Clima de la ciudad de Berlin
+    </string>
+</resources>
